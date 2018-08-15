@@ -1,0 +1,5 @@
+C:\Users\Thur\Desktop\Enforcado\Enforcado\Enforcado\Enforcado\Enforcado\bin\Debug\Hangman_Game.exe
+C:\Users\Thur\Desktop\Enforcado\Enforcado\Enforcado\Enforcado\Enforcado\bin\Debug\Hangman_Game.pdb
+C:\Users\Thur\Desktop\Enforcado\Enforcado\Enforcado\Enforcado\Enforcado\obj\Debug\Enforcado.csprojResolveAssemblyReference.cache
+C:\Users\Thur\Desktop\Enforcado\Enforcado\Enforcado\Enforcado\Enforcado\obj\Debug\Hangman_Game.exe
+C:\Users\Thur\Desktop\Enforcado\Enforcado\Enforcado\Enforcado\Enforcado\obj\Debug\Hangman_Game.pdb
