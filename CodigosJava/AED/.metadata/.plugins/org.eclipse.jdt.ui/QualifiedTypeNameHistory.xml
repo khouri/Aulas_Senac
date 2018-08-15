@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="ListaLigada.Node"/>
+<fullyQualifiedTypeName name="ListaLigadaDupla.DoubleLinkedList"/>
+<fullyQualifiedTypeName name="ListaLigadaCircular.ListaLigadaCircular"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="Arrays.Arrays"/>
+<fullyQualifiedTypeName name="java.util.Enumeration"/>
+<fullyQualifiedTypeName name="Arrays.Life"/>
+<fullyQualifiedTypeName name="grafos.Grafo"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+</qualifiedTypeNameHistroy>

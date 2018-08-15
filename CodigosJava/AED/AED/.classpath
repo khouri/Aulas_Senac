@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="AulaListaLigada"/>
+	<classpathentry kind="src" path="AulaArray"/>
+	<classpathentry kind="src" path="LifeGame"/>
+	<classpathentry kind="src" path="Grafos"/>
+	<classpathentry kind="src" path="pilhaFila"/>
+	<classpathentry kind="src" path="arvores"/>
+	<classpathentry kind="src" path="Hash"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

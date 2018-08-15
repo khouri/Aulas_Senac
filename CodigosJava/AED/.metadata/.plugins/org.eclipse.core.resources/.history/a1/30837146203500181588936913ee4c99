@@ -1,0 +1,63 @@
+package Hash;
+
+/*
+ * 
+ * https://introcs.cs.princeton.edu/java/23recursion/
+ * 
+ * */
+
+public class Recorrencia {
+
+	public static long factorial(long n) {
+		if (n == 0) 
+			return 1;
+
+		else {
+			return n * factorial(n-1);
+		}
+	}
+
+	public static int factorialIterative(int n) {
+
+		int resultado = 1;
+		for(int i = n;i > 0; i--){
+			resultado = resultado * i;	
+		}
+
+		return resultado;
+	}
+
+
+	static double exponenciacao(double a, int n) {
+		double an;
+		if (n == 0) {
+			return 1; /* caso base */
+		} else {
+			double aux = exponenciacao(a, n / 2);
+			System.out.println(aux);
+			an = aux * aux;
+			//System.out.println(an);
+			if (n % 2 == 1) {
+				an = an * a;
+				//System.out.println(an);
+			}
+			return an;
+		}
+	}
+
+	
+	
+	
+	
+	public static void main(String[] args) {
+			/*
+		int resultado = factorialIterative(5);
+		System.out.println(resultado);*/
+		
+		System.out.println(exponenciacao(2,3));
+		
+		System.out.println(1%2);
+		
+		
+	}
+}

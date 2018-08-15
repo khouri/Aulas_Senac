@@ -1,0 +1,110 @@
+package Hash;
+
+/*
+ * 
+ * https://introcs.cs.princeton.edu/java/23recursion/
+ * 
+ * */
+
+public class Recorrencia {
+
+	public static long factorial(long n) {
+		if (n == 0) 
+			return 1;
+
+		else {
+			return n * factorial(n-1);
+		}
+	}
+
+	public static int factorialIterative(int n) {
+
+		int resultado = 1;
+		for(int i = n;i > 0; i--){
+			resultado = resultado * i;	
+		}
+
+		return resultado;
+	}
+
+
+	static double exponenciacao(double a, int n) {
+		double an;
+		if (n == 0) {
+			return 1; /* caso base */
+		} else {
+			double aux = exponenciacao(a, n / 2);
+			System.out.println(aux);
+			an = aux * aux;
+			//System.out.println(an);
+			if (n % 2 == 1) {
+				an = an * a;
+				//System.out.println(an);
+			}
+			return an;
+		}
+	}
+
+	public static double golden(int n) {
+		if (n == 0) {
+			return 1;
+	    }
+	        
+		return 1.0 + 1.0 / golden(n-1);
+	}
+	
+	public static void tree(int n, double x, double y, double a, double branchRadius) {
+		
+        double bendAngle   = Math.toRadians(15);
+        double branchAngle = Math.toRadians(37);
+        double branchRatio = 0.65;
+
+        double cx = x + Math.cos(a) * branchRadius;
+        double cy = y + Math.sin(a) * branchRadius;
+        StdDraw.setPenRadius(0.001 * Math.pow(n, 1.2));
+        StdDraw.line(x, y, cx, cy);
+        if (n == 0) return;
+
+        tree(n-1, cx, cy, a + bendAngle - branchAngle, branchRadius * branchRatio);
+        tree(n-1, cx, cy, a + bendAngle + branchAngle, branchRadius * branchRatio);
+        tree(n-1, cx, cy, a + bendAngle,               branchRadius * (1 - branchRatio));
+    }
+	
+	
+	   public static void print(String prefix, String remaining, int k) {
+	        if (k == 0) {
+	            System.out.println(prefix);
+	            return;
+	        }
+	        if (remaining.length() == 0) return;
+	        print(prefix + remaining.charAt(0), remaining.substring(1), k-1);
+	        print(prefix, remaining.substring(1), k);
+	    }
+	
+	public static void main(String[] args) {
+			/*
+		int resultado = factorialIterative(5);
+		System.out.println(resultado);*/
+		
+//		System.out.println(exponenciacao(2,3));
+//		
+//		System.out.println(1%2);
+
+		 /*
+		 //teste arvore
+		 int n = 2;//Integer.parseInt(args[0]);
+	     StdDraw.enableDoubleBuffering();
+	     tree(n, 0.5, 0, Math.PI/2, 0.3);
+	     StdDraw.show();
+	     */
+	     
+//		 int n = 10;//Integer.parseInt(args[0]);
+//	     System.out.println(golden(n));
+		
+	     
+		 String s = args[0];
+	        int k = Integer.parseInt(args[1]);
+	        print("", s, k);
+	     
+	}
+}
