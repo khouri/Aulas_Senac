@@ -1,0 +1,11 @@
+C:\Users\akhouri\Desktop\aulinhas\Aulas_SENAC\CodigosC#\AulasSENAC_AED\AulasSENAC_AED\bin\Debug\netcoreapp2.0\AulasSENAC_AED.deps.json
+C:\Users\akhouri\Desktop\aulinhas\Aulas_SENAC\CodigosC#\AulasSENAC_AED\AulasSENAC_AED\bin\Debug\netcoreapp2.0\AulasSENAC_AED.runtimeconfig.json
+C:\Users\akhouri\Desktop\aulinhas\Aulas_SENAC\CodigosC#\AulasSENAC_AED\AulasSENAC_AED\bin\Debug\netcoreapp2.0\AulasSENAC_AED.runtimeconfig.dev.json
+C:\Users\akhouri\Desktop\aulinhas\Aulas_SENAC\CodigosC#\AulasSENAC_AED\AulasSENAC_AED\bin\Debug\netcoreapp2.0\AulasSENAC_AED.dll
+C:\Users\akhouri\Desktop\aulinhas\Aulas_SENAC\CodigosC#\AulasSENAC_AED\AulasSENAC_AED\bin\Debug\netcoreapp2.0\AulasSENAC_AED.pdb
+C:\Users\akhouri\Desktop\aulinhas\Aulas_SENAC\CodigosC#\AulasSENAC_AED\AulasSENAC_AED\obj\Debug\netcoreapp2.0\AulasSENAC_AED.csprojResolveAssemblyReference.cache
+C:\Users\akhouri\Desktop\aulinhas\Aulas_SENAC\CodigosC#\AulasSENAC_AED\AulasSENAC_AED\obj\Debug\netcoreapp2.0\AulasSENAC_AED.csproj.CoreCompileInputs.cache
+C:\Users\akhouri\Desktop\aulinhas\Aulas_SENAC\CodigosC#\AulasSENAC_AED\AulasSENAC_AED\obj\Debug\netcoreapp2.0\AulasSENAC_AED.AssemblyInfoInputs.cache
+C:\Users\akhouri\Desktop\aulinhas\Aulas_SENAC\CodigosC#\AulasSENAC_AED\AulasSENAC_AED\obj\Debug\netcoreapp2.0\AulasSENAC_AED.AssemblyInfo.cs
+C:\Users\akhouri\Desktop\aulinhas\Aulas_SENAC\CodigosC#\AulasSENAC_AED\AulasSENAC_AED\obj\Debug\netcoreapp2.0\AulasSENAC_AED.dll
+C:\Users\akhouri\Desktop\aulinhas\Aulas_SENAC\CodigosC#\AulasSENAC_AED\AulasSENAC_AED\obj\Debug\netcoreapp2.0\AulasSENAC_AED.pdb
