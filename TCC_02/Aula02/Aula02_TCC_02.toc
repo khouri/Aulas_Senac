@@ -5,4 +5,4 @@
 \beamer@sectionintoc {4}{Projeto Acad\IeC {\^e}mico}{5}{0}{4}
 \beamer@sectionintoc {5}{Discuss\IeC {\~a}o}{6}{0}{5}
 \beamer@sectionintoc {6}{D\IeC {\'u}vidas}{7}{0}{6}
-\beamer@sectionintoc {7}{Contato}{8}{0}{7}
+\beamer@sectionintoc {7}{Contato}{9}{0}{7}
