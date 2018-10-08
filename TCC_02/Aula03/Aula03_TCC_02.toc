@@ -1,0 +1,6 @@
+\babel@toc {brazil}{}
+\beamer@sectionintoc {1}{Sum\IeC {\'a}rio}{2}{0}{1}
+\beamer@sectionintoc {2}{Cronograma}{3}{0}{2}
+\beamer@sectionintoc {3}{Boas Fontes de Informa\IeC {\c c}\IeC {\~a}o}{4}{0}{3}
+\beamer@sectionintoc {4}{D\IeC {\'u}vidas}{7}{0}{4}
+\beamer@sectionintoc {5}{Contato}{9}{0}{5}

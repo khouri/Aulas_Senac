@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.23)  8 OCT 2018 14:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.23)  8 OCT 2018 19:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Aula01_TCC_02.tex
-(./Aula01_TCC_02.tex
+**Aula03_TCC_02.tex
+(./Aula03_TCC_02.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamer.cls
@@ -779,8 +779,8 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 ))
-(./Aula01_TCC_02.aux)
-\openout1 = `Aula01_TCC_02.aux'.
+(./Aula03_TCC_02.aux)
+\openout1 = `Aula03_TCC_02.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
@@ -881,9 +881,9 @@ LaTeX Info: Redefining \ref on input line 8.
 LaTeX Info: Redefining \pageref on input line 8.
 LaTeX Info: Redefining \nameref on input line 8.
 
-(./Aula01_TCC_02.out) (./Aula01_TCC_02.out)
+(./Aula03_TCC_02.out) (./Aula03_TCC_02.out)
 \@outlinefile=\write5
-\openout5 = `Aula01_TCC_02.out'.
+\openout5 = `Aula03_TCC_02.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 8.
@@ -970,8 +970,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- (./Aula01_TCC_02.nav)
-<SENAC.png, id=66, 1028.84375pt x 774.895pt>
+ (./Aula03_TCC_02.nav)
+<SENAC.png, id=34, 1028.84375pt x 774.895pt>
 File: SENAC.png Graphic file (type png)
 <use SENAC.png>
 Package pdftex.def Info: SENAC.png  used on input line 12.
@@ -982,7 +982,7 @@ Package pdftex.def Info: SENAC.png  used on input line 12.
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./SENAC
 .png>]
-(./secoes/Sumario/sumario.tex (./Aula01_TCC_02.toc)
+(./secoes/Sumario/sumario.tex (./Aula03_TCC_02.toc)
 File: SENAC.png Graphic file (type png)
 <use SENAC.png>
 Package pdftex.def Info: SENAC.png  used on input line 5.
@@ -990,8 +990,8 @@ Package pdftex.def Info: SENAC.png  used on input line 5.
  [2
 
 ])
-(./secoes/Apresentacao/apresentacao.tex
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 15.
+(./secoes/Cronograma/cronograma.tex
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 16.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
@@ -1000,31 +1000,31 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 15.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 16.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<oml.cmap>>
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 15.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 16.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<oms.cmap>>
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 15.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 16.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 15.
+(Font)              <10.95> on input line 16.
 <<omx.cmap>>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 15.
+(Font)              <8> on input line 16.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 15.
-LaTeX Font Info:    Try loading font information for U+msa on input line 15.
+(Font)              <6> on input line 16.
+LaTeX Font Info:    Try loading font information for U+msa on input line 16.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1032,7 +1032,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 15.
+LaTeX Font Info:    Try loading font information for U+msb on input line 16.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1041,163 +1041,89 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 15.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 16.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 15.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 16.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 15.
-<./pic/join.png, id=110, 1056.94875pt x 747.79375pt>
-File: ./pic/join.png Graphic file (type png)
-<use ./pic/join.png>
-Package pdftex.def Info: ./pic/join.png  used on input line 15.
-(pdftex.def)             Requested size: 256.07591pt x 142.26485pt.
-File: SENAC.png Graphic file (type png)
-<use SENAC.png>
-Package pdftex.def Info: SENAC.png  used on input line 15.
-(pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [3
-
- <./pic/join.png>]
-File: SENAC.png Graphic file (type png)
-<use SENAC.png>
-Package pdftex.def Info: SENAC.png  used on input line 25.
-(pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [4
-
-]
-File: SENAC.png Graphic file (type png)
-<use SENAC.png>
-Package pdftex.def Info: SENAC.png  used on input line 37.
-(pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [5
-
-]) (./secoes/Cronograma/cronograma.tex
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 16.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 16.
 File: SENAC.png Graphic file (type png)
 <use SENAC.png>
 Package pdftex.def Info: SENAC.png  used on input line 16.
 (pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [6
+ [3
 
 ])
-(./secoes/Overview/overview.tex
-File: SENAC.png Graphic file (type png)
-<use SENAC.png>
-Package pdftex.def Info: SENAC.png  used on input line 16.
-(pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [7
-
-]) (./secoes/Correlatos/correlatos.tex
+(./secoes/BoasFontes/boasfontes.tex
 File: SENAC.png Graphic file (type png)
 <use SENAC.png>
 Package pdftex.def Info: SENAC.png  used on input line 11.
 (pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
-
-[8
+ [4
 
 ]
 File: SENAC.png Graphic file (type png)
 <use SENAC.png>
-Package pdftex.def Info: SENAC.png  used on input line 17.
+Package pdftex.def Info: SENAC.png  used on input line 28.
 (pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [9
+ [5
 
-]) (./secoes/Introducao/introducao.tex
+]
 File: SENAC.png Graphic file (type png)
 <use SENAC.png>
-Package pdftex.def Info: SENAC.png  used on input line 14.
+Package pdftex.def Info: SENAC.png  used on input line 39.
 (pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [10
+ [6
 
-])
-(./secoes/Metodologia/metodologia.tex
-File: SENAC.png Graphic file (type png)
-<use SENAC.png>
-Package pdftex.def Info: SENAC.png  used on input line 17.
-(pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [11
-
-])
-(./secoes/BaseTeorica/baseteorica.tex
-File: SENAC.png Graphic file (type png)
-<use SENAC.png>
-Package pdftex.def Info: SENAC.png  used on input line 17.
-(pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [12
-
-])
-(./secoes/Desenvolvimento/desenvolvimento.tex
-File: SENAC.png Graphic file (type png)
-<use SENAC.png>
-Package pdftex.def Info: SENAC.png  used on input line 15.
-(pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [13
-
-])
-(./secoes/Conclusao/conclusao.tex
-File: SENAC.png Graphic file (type png)
-<use SENAC.png>
-Package pdftex.def Info: SENAC.png  used on input line 14.
-(pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [14
-
-]) (./secoes/Resumo/resumo.tex
-File: SENAC.png Graphic file (type png)
-<use SENAC.png>
-Package pdftex.def Info: SENAC.png  used on input line 15.
-(pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [15
-
-])
-(./secoes/Duvidas/duvidas.tex
+]) (./secoes/Duvidas/duvidas.tex
 File: SENAC.png Graphic file (type png)
 <use SENAC.png>
 Package pdftex.def Info: SENAC.png  used on input line 7.
 (pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [16
+
+[7
+
+]
+File: SENAC.png Graphic file (type png)
+<use SENAC.png>
+Package pdftex.def Info: SENAC.png  used on input line 13.
+(pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
+ [8
 
 ]) (./secoes/Contato/contato.tex
 File: SENAC.png Graphic file (type png)
 <use SENAC.png>
 Package pdftex.def Info: SENAC.png  used on input line 14.
 (pdftex.def)             Requested size: 364.19812pt x 273.1446pt.
- [17
+ [9
 
 ])
 \tf@nav=\write6
-\openout6 = `Aula01_TCC_02.nav'.
+\openout6 = `Aula03_TCC_02.nav'.
 
 \tf@toc=\write7
-\openout7 = `Aula01_TCC_02.toc'.
+\openout7 = `Aula03_TCC_02.toc'.
 
 \tf@snm=\write8
-\openout8 = `Aula01_TCC_02.snm'.
+\openout8 = `Aula03_TCC_02.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
-
-(./Aula01_TCC_02.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
-
-
-Package rerunfilecheck Warning: File `Aula01_TCC_02.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Aula01_TCC_02.out':
-(rerunfilecheck)             Before: 71A6614EC87C1692EACAD37FB17D1AB3;633
-(rerunfilecheck)             After:  F796E6D2A616F0B695FF4329665854EB;637.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 24.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 24.
+ (./Aula03_TCC_02.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 24.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 24.
+Package rerunfilecheck Info: File `Aula03_TCC_02.out' has not changed.
+(rerunfilecheck)             Checksum: 2F9B9C7273501E4467B0B004FE9C6154;243.
  ) 
 Here is how much of TeX's memory you used:
- 19496 strings out of 492649
- 363334 string characters out of 6129622
- 478872 words of memory out of 5000000
- 22727 multiletter control sequences out of 15000+600000
- 38424 words of font info for 79 fonts, out of 8000000 for 9000
+ 19337 strings out of 492649
+ 361007 string characters out of 6129622
+ 477808 words of memory out of 5000000
+ 22653 multiletter control sequences out of 15000+600000
+ 34596 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,11n,55p,780b,575s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,11n,55p,780b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/lo
 cal/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texliv
 e/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-di
@@ -1207,10 +1133,10 @@ c/amsfonts/symbols/msam10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/u
 rw/helvetic/uhvb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helv
 etic/uhvr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uh
 vro8a.pfb>
-Output written on Aula01_TCC_02.pdf (17 pages, 986237 bytes).
+Output written on Aula03_TCC_02.pdf (9 pages, 200273 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 187 compressed objects within 2 object streams
- 49 named destinations out of 1000 (max. 500000)
- 23217 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 144 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 19052 words of extra memory for PDF output out of 20736 (max. 10000000)
 
