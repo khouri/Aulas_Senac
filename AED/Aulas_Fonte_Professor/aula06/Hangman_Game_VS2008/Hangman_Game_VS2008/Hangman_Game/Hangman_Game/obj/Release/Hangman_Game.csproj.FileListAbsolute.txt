@@ -1,15 +1,20 @@
-C:\Users\Wonde\Desktop\Hangman_Game\Hangman_Game\bin\Release\Hangman_Game.exe
-C:\Users\Wonde\Desktop\Hangman_Game\Hangman_Game\bin\Release\Hangman_Game.pdb
-C:\Users\Wonde\Desktop\Hangman_Game\Hangman_Game\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Wonde\Desktop\Hangman_Game\Hangman_Game\obj\Release\Hangman_Game.exe
-C:\Users\Wonde\Desktop\Hangman_Game\Hangman_Game\obj\Release\Hangman_Game.pdb
-C:\Users\Wonde\Desktop\Hangman Solution\VS2008\Hangman_Game\Hangman_Game\obj\Release\Hangman_Game.exe
-C:\Users\Wonde\Desktop\Hangman Solution\VS2008\Hangman_Game\Hangman_Game\obj\Release\Hangman_Game.pdb
-C:\Users\Wonde\Desktop\Hangman Solution\VS2008\Hangman_Game\Hangman_Game\bin\Release\Hangman_Game.exe
-C:\Users\Wonde\Desktop\Hangman Solution\VS2008\Hangman_Game\Hangman_Game\bin\Release\Hangman_Game.pdb
-C:\Users\Wonde\Desktop\Hangman Solution\VS2008\Hangman_Game\Hangman_Game\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Release\Hangman_Game.exe
-C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Release\Hangman_Game.pdb
-C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\bin\Release\Hangman_Game.exe
-C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\bin\Release\Hangman_Game.pdb
-C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Release\ResolveAssemblyReference.cache
+C:/Users/Wonde/Desktop/Hangman_Game/Hangman_Game/bin/Release/Hangman_Game.exe
+C:/Users/Wonde/Desktop/Hangman_Game/Hangman_Game/bin/Release/Hangman_Game.pdb
+C:/Users/Wonde/Desktop/Hangman_Game/Hangman_Game/obj/Release/ResolveAssemblyReference.cache
+C:/Users/Wonde/Desktop/Hangman_Game/Hangman_Game/obj/Release/Hangman_Game.exe
+C:/Users/Wonde/Desktop/Hangman_Game/Hangman_Game/obj/Release/Hangman_Game.pdb
+C:/Users/Wonde/Desktop/Hangman Solution/VS2008/Hangman_Game/Hangman_Game/obj/Release/Hangman_Game.exe
+C:/Users/Wonde/Desktop/Hangman Solution/VS2008/Hangman_Game/Hangman_Game/obj/Release/Hangman_Game.pdb
+C:/Users/Wonde/Desktop/Hangman Solution/VS2008/Hangman_Game/Hangman_Game/bin/Release/Hangman_Game.exe
+C:/Users/Wonde/Desktop/Hangman Solution/VS2008/Hangman_Game/Hangman_Game/bin/Release/Hangman_Game.pdb
+C:/Users/Wonde/Desktop/Hangman Solution/VS2008/Hangman_Game/Hangman_Game/obj/Release/ResolveAssemblyReference.cache
+C:/Users/Wonde/Desktop/Hangman Solution/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Release/Hangman_Game.exe
+C:/Users/Wonde/Desktop/Hangman Solution/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Release/Hangman_Game.pdb
+C:/Users/Wonde/Desktop/Hangman Solution/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/bin/Release/Hangman_Game.exe
+C:/Users/Wonde/Desktop/Hangman Solution/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/bin/Release/Hangman_Game.pdb
+C:/Users/Wonde/Desktop/Hangman Solution/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Release/ResolveAssemblyReference.cache
+/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/aula06/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/bin/Release/Hangman_Game.exe
+/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/aula06/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/bin/Release/Hangman_Game.pdb
+/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/aula06/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Release/Hangman_Game.csproj.CoreCompileInputs.cache
+/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/aula06/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Release/Hangman_Game.exe
+/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/aula06/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Release/Hangman_Game.pdb

@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{ALTER} \PYG{k}{TABLE} \PYG{n}{devices} \PYG{k}{RENAME} \PYG{k}{TO} \PYG{n}{equipment}\PYG{p}{;}
+\end{Verbatim}

@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{SELECT} 
+	\PYG{n}{name}\PYG{p}{,} 
+	\PYG{n}{milliseconds}\PYG{p}{,}  
+	\PYG{n}{bytes}\PYG{p}{,} 
+	\PYG{n}{albumid} 
+\PYG{k}{FROM} \PYG{n}{tracks} 
+\PYG{k}{WHERE} \PYG{n}{albumid} \PYG{o}{=} \PYG{l+m+mi}{1}\PYG{p}{;}
+\end{Verbatim}

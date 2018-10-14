@@ -1,0 +1,1 @@
+ALTER TABLE devices RENAME TO equipment;

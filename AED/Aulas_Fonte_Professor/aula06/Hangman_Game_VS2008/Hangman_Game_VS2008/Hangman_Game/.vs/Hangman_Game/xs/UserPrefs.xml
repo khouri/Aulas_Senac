@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DEDB8EBD-5D6D-4CD3-9C33-850BD86EC597}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hangman_Game/Program.cs">
+    <Files>
+      <File FileName="Hangman_Game/PlayHangman.cs" Line="1" Column="1" />
+      <File FileName="Hangman_Game/Program.cs" Line="57" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Hangman__Game PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

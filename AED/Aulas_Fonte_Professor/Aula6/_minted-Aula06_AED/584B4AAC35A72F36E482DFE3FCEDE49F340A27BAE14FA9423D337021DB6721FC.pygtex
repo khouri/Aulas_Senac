@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{SELECT} 
+	\PYG{n}{artists}\PYG{p}{.}\PYG{n}{ArtistId}\PYG{p}{,} 
+	\PYG{n}{albums}\PYG{p}{.}\PYG{n}{albumId}
+\PYG{k}{FROM} \PYG{n}{artists}
+\PYG{k}{LEFT} \PYG{k}{JOIN} \PYG{n}{albums} 
+\PYG{k}{ON} \PYG{n}{albums}\PYG{p}{.}\PYG{n}{artistid} \PYG{o}{=} \PYG{n}{artists}\PYG{p}{.}\PYG{n}{artistid}
+\PYG{k}{ORDER} \PYG{k}{BY} \PYG{n}{albumid}\PYG{p}{;}
+\end{Verbatim}

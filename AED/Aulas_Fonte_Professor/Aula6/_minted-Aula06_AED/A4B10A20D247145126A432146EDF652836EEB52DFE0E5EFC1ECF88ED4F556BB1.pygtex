@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{SELECT} 
+	\PYG{n}{trackid}\PYG{p}{,} 
+	\PYG{n}{name}\PYG{p}{,} 
+	\PYG{n}{title}
+\PYG{k}{FROM} \PYG{n}{tracks}
+\PYG{k}{INNER} \PYG{k}{JOIN} \PYG{n}{albums} 
+\PYG{k}{ON} \PYG{n}{albums}\PYG{p}{.}\PYG{n}{albumid} \PYG{o}{=} \PYG{n}{tracks}\PYG{p}{.}\PYG{n}{albumid}\PYG{p}{;}
+\end{Verbatim}

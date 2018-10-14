@@ -1,0 +1,11 @@
+\begin{block}{Alter} 	
+		Comando para alterar objetos do banco de dados , entre outros, nomes de tabelas:
+				\inputminted[linenos,
+									fontsize=\footnotesize,
+									baselinestretch=1.2,
+									framesep=2mm,
+									bgcolor=bg_gray,
+									frame=lines]
+									{sql}
+									{./secoes/BancoDeDados/alter.sql}
+	\end{block}

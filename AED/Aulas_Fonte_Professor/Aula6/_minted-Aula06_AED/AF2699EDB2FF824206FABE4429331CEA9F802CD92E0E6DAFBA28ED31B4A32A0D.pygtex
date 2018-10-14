@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{UPDATE} \PYG{n}{employees} \PYG{k}{SET} \PYG{n}{lastname} \PYG{o}{=} \PYG{l+s+ss}{\PYGZdq{}Smith\PYGZdq{}} \PYG{k}{WHERE} \PYG{n}{employeeid} \PYG{o}{=} \PYG{l+m+mi}{3}\PYG{p}{;}
+\end{Verbatim}

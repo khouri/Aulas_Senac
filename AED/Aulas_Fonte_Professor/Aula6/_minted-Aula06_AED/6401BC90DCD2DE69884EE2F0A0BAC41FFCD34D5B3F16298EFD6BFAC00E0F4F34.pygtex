@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{INSERT} \PYG{k}{INTO} 
+\PYG{n}{artists} \PYG{p}{(}\PYG{n}{name}\PYG{p}{)}
+\PYG{k}{VALUES} \PYG{p}{(}\PYG{l+s+ss}{\PYGZdq{}Buddy Rich\PYGZdq{}}\PYG{p}{),} \PYG{p}{(}\PYG{l+s+ss}{\PYGZdq{}Candido\PYGZdq{}}\PYG{p}{),} \PYG{p}{(}\PYG{l+s+ss}{\PYGZdq{}Charlie Byrd\PYGZdq{}}\PYG{p}{);}
+\end{Verbatim}

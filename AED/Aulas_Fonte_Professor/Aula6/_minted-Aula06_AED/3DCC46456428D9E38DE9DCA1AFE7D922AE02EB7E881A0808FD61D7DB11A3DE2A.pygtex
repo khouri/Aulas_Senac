@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{SELECT} 
+	\PYG{n}{albumid}\PYG{p}{,} 
+	\PYG{k}{COUNT}\PYG{p}{(}\PYG{n}{trackid}\PYG{p}{)}
+\PYG{k}{FROM} \PYG{n}{tracks}
+\PYG{k}{GROUP} \PYG{k}{BY} \PYG{n}{albumid}
+\PYG{k}{HAVING} \PYG{n}{albumid} \PYG{o}{=} \PYG{l+m+mi}{1}\PYG{p}{;}
+\end{Verbatim}

@@ -1,0 +1,13 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{SELECT} 
+	\PYG{n}{trackid}\PYG{p}{,}         
+    \PYG{n}{name}\PYG{p}{,}         
+    \PYG{n}{albumid}\PYG{p}{,}         
+    \PYG{n}{mediatypeid}\PYG{p}{,}         
+    \PYG{n}{genreid}\PYG{p}{,}         
+    \PYG{n}{composer}\PYG{p}{,}         
+    \PYG{n}{milliseconds}\PYG{p}{,}         
+    \PYG{n}{bytes}\PYG{p}{,}         
+    \PYG{n}{unitprice}
+\PYG{k}{FROM} \PYG{n}{tracks}\PYG{p}{;}
+\end{Verbatim}

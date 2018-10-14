@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{SELECT} 
+	\PYG{n}{trackid}\PYG{p}{,} 
+	\PYG{n}{name} 
+\PYG{k}{FROM} \PYG{n}{tracks} 
+\PYG{k}{WHERE} \PYG{n}{name} \PYG{k}{LIKE} \PYG{err}{\PYGZsq{}}\PYG{n}{Wild}\PYG{o}{\PYGZpc{}}\PYG{err}{’}
+\end{Verbatim}

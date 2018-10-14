@@ -1,15 +1,21 @@
-C:\Users\Wonde\Documents\Visual Studio 2008\Projects\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe
-C:\Users\Wonde\Documents\Visual Studio 2008\Projects\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.pdb
-C:\Users\Wonde\Documents\Visual Studio 2008\Projects\Hangman_Game\Hangman_Game\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Wonde\Documents\Visual Studio 2008\Projects\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.exe
-C:\Users\Wonde\Documents\Visual Studio 2008\Projects\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.pdb
-C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.exe
-C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.pdb
-C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe
-C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.pdb
-C:\Users\Wonde\Desktop\Hangman Solution\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Thur\Downloads\Hangman_Game_VS2008\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.exe
-C:\Users\Thur\Downloads\Hangman_Game_VS2008\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.pdb
-C:\Users\Thur\Downloads\Hangman_Game_VS2008\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe
-C:\Users\Thur\Downloads\Hangman_Game_VS2008\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.pdb
-C:\Users\Thur\Downloads\Hangman_Game_VS2008\Hangman_Game_VS2008\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.csprojResolveAssemblyReference.cache
+C:/Users/Wonde/Documents/Visual Studio 2008/Projects/Hangman_Game/Hangman_Game/bin/Debug/Hangman_Game.exe
+C:/Users/Wonde/Documents/Visual Studio 2008/Projects/Hangman_Game/Hangman_Game/bin/Debug/Hangman_Game.pdb
+C:/Users/Wonde/Documents/Visual Studio 2008/Projects/Hangman_Game/Hangman_Game/obj/Debug/ResolveAssemblyReference.cache
+C:/Users/Wonde/Documents/Visual Studio 2008/Projects/Hangman_Game/Hangman_Game/obj/Debug/Hangman_Game.exe
+C:/Users/Wonde/Documents/Visual Studio 2008/Projects/Hangman_Game/Hangman_Game/obj/Debug/Hangman_Game.pdb
+C:/Users/Wonde/Desktop/Hangman Solution/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Debug/Hangman_Game.exe
+C:/Users/Wonde/Desktop/Hangman Solution/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Debug/Hangman_Game.pdb
+C:/Users/Wonde/Desktop/Hangman Solution/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/bin/Debug/Hangman_Game.exe
+C:/Users/Wonde/Desktop/Hangman Solution/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/bin/Debug/Hangman_Game.pdb
+C:/Users/Wonde/Desktop/Hangman Solution/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Debug/ResolveAssemblyReference.cache
+C:/Users/Thur/Downloads/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Debug/Hangman_Game.exe
+C:/Users/Thur/Downloads/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Debug/Hangman_Game.pdb
+C:/Users/Thur/Downloads/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/bin/Debug/Hangman_Game.exe
+C:/Users/Thur/Downloads/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/bin/Debug/Hangman_Game.pdb
+C:/Users/Thur/Downloads/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Debug/Hangman_Game.csprojResolveAssemblyReference.cache
+/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/aula06/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/bin/Debug/Hangman_Game.exe
+/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/aula06/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/bin/Debug/Hangman_Game.pdb
+/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/aula06/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Debug/Hangman_Game.csprojResolveAssemblyReference.cache
+/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/aula06/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Debug/Hangman_Game.csproj.CoreCompileInputs.cache
+/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/aula06/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Debug/Hangman_Game.exe
+/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/aula06/Hangman_Game_VS2008/Hangman_Game_VS2008/Hangman_Game/Hangman_Game/obj/Debug/Hangman_Game.pdb

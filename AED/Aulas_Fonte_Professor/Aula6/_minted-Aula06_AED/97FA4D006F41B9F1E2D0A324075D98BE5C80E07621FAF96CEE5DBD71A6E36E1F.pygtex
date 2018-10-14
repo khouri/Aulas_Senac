@@ -1,0 +1,12 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{SELECT} 
+	\PYG{n}{customerid}\PYG{p}{,} 
+	\PYG{n}{firstname}\PYG{p}{,} 
+	\PYG{n}{lastname}\PYG{p}{,} 
+	\PYG{k}{CASE} \PYG{n}{country} \PYG{k}{WHEN} \PYG{l+s+ss}{\PYGZdq{}USA\PYGZdq{}}
+	\PYG{k}{THEN} \PYG{l+s+ss}{\PYGZdq{}Dosmetic\PYGZdq{}}
+	\PYG{k}{ELSE} \PYG{l+s+ss}{\PYGZdq{}Foreign\PYGZdq{}}
+	\PYG{k}{END} \PYG{n}{CustomerGroup}
+\PYG{k}{FROM} \PYG{n}{customers}
+\PYG{k}{ORDER} \PYG{k}{BY} \PYG{n}{LastName}\PYG{p}{,} \PYG{n}{FirstName}\PYG{p}{;}
+\end{Verbatim}

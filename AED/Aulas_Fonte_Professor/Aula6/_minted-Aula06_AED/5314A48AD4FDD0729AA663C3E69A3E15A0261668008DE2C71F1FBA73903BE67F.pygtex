@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{SELECT} 
+    \PYG{n}{city} 
+\PYG{k}{FROM} \PYG{n}{customers}
+\PYG{k}{ORDER} \PYG{k}{BY} \PYG{n}{city} \PYG{k}{desc}\PYG{p}{;}
+\end{Verbatim}
