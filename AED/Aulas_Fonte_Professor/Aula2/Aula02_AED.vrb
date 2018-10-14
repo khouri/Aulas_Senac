@@ -1,0 +1,10 @@
+\begin{block}{Análise encontra mínimo}	
+				\inputminted[linenos,
+									fontsize=\footnotesize,
+									baselinestretch=1.2,
+									framesep=2mm,
+									bgcolor=bg_gray,
+									frame=lines]
+									{csharp}
+									{./secoes/AnaliseAlgoritmos/encontraminimo.cs}
+	\end{block}

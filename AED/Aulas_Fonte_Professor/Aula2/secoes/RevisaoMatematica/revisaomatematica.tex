@@ -1,0 +1,150 @@
+\section*{Revisão Matemática}
+
+\begin{frame}
+	\begin{block}{Revisão Matemática}
+		\begin{itemize}
+			\item Para compararmos/construirmos algoritmos precisamos de uma base matemática.
+			\item As notações assintóticas exigem algumas operações algébricas e conhecimento geral de funções  que serão revistas nessa aula.
+			\item A revisão será prática sem formalismos desnecessários (foco no uso)
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{Logaritmos}
+		\begin{itemize}
+			\item $\log_a b \Leftrightarrow a^{x} = b $ onde $x$ é a resposta do logaritmo
+			\item Sendo $b,a > 0$ e $a \neq 1$
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{Logaritmos - Propriedades mais usadas}
+		\begin{itemize}
+			\item $\log_a 1 = 0$
+			\item $\log_a a = 1$
+			\item $ \log_a a^{m} = m $
+			\item $a^{\log_a b} = b$
+			\item $\log_a b = \log_a c \Leftrightarrow b = c$
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{Logaritmos - Exercícios}
+		Encontre o valor de x:
+		\begin{itemize}
+			\item $\log_3 27 = x$
+			\item $\log_{81} x = \frac{3}{4}$
+			\item $\log_4 \sqrt[2]{2} = x$
+			\item $\log_{81} x = \frac{3}{4}$
+			\item $\log_x 8 = 2$
+			\item $\log_4 (2x-1) = \frac{1}{2}$
+			\item $\log_{18} 18 = x$
+			\item $\log_x 1024 = 2$
+			\item $\log_4 0,25 =x$
+			\item $\log_{10} 0,01 = x$
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{Exponenciação}
+		\begin{itemize}
+			\item Um número é multiplicado por ele mesmo $n$ vezes.
+			\item $a^{n} = b$ onde $a$ é a base, $b$ o expoente e b é  a potência
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{Exponenciação - Propriedades mais usadas}
+		\begin{itemize}
+			\item $a^{0} = 1$
+			\item $a^{1} = a$
+			\item $1^{n} = 1$
+			\item $0^{n} = 0$ para $n > 0$
+			\item $a^{m} * a^{n} = a^{m+n}$
+			\item $ \frac{a^{m}}{a^{n}} = a^{m-n}$
+			\item $ a^{-m} = \left( \frac{1}{a} \right)^{m}$ para $a \neq 0$
+			\item $ (a*b*c)^{n} = (a)^{n} * (b)^{n} * (c)^{n}$
+			\item $ \left( \frac{a}{b} \right)^{n}= \frac{a^{n}}{b^{n}}$
+			\item $((a)^{m})^{n} = (a)^{m*n}$
+			\item $ (\sqrt[n]{a})^{m} = \sqrt[n]{a^{m}}$
+			\item $ (-3)^{2} = 9$
+			\item $ -3^{2} = -9$
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{Exponenciação - Exercícios}
+		Calcule:
+		\begin{itemize}
+			\item $2^{3}$
+			\item $(-2)^{3}$
+			\item $-2^{3}$
+			\item $(0.2)^{4}$
+			\item $(0.1)^{3}$
+			\item $(0.2)^{3} + (0.16)^{2}$
+			\item $(5)^{3a} = 64$ então $5^{-a}$ é?
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{Radiciação}
+		\begin{itemize}
+			\item É o a operação inversa da potenciação
+			\item $ \sqrt[n]{x} = L$ onde $L$ é a raiz $n$-ésima de x
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{Radiciação - Propriedades mais usadas}
+		\begin{itemize}
+			\item $ \sqrt[n]{x^{n}} = x$
+			\item $ \sqrt[n]{x^{m}} = \sqrt[np]{x^{mp}} $
+			\item $\sqrt[n]{x^{m}} = \sqrt[\frac{n}{p}]{x^{\frac{m}{p}}} $
+			\item $\sqrt[n]{a*b} = \sqrt[n]{a} * \sqrt[n]{b}$
+			\item $\sqrt[n]{\frac{a}{b}} = \frac{\sqrt[n]{a}}{\sqrt[n]{b}}$
+			\item $\sqrt[n]{\sqrt[m]{a}} = \sqrt[nm]{a}$
+			\item $\sqrt[n]{a^{m}} = a^{\frac{m}{n}}$
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{Radiciação - Exercícios}
+		Resolva a expressão:
+		\begin{itemize}
+			\item $\sqrt[3]{2(\sqrt[2]{9} +2 * \sqrt[2]{25} + 1)}$
+			\item $\sqrt[2]{2}*(\sqrt[2]{8} + 2\sqrt[2]{6})-\sqrt[2]{3}(\sqrt[2]{27}+3\sqrt[2]{6})$
+			\item $\frac{5\sqrt[12]{64} -\sqrt[2]{18}}{\sqrt[2]{50} - \sqrt[4]{324}}$
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{Fatoração}
+		\begin{itemize}
+			\item É quando agrupamos fatores comuns em evidência
+			\item $ax + bx = x(a+b)$
+			\item $cx^{2} + bx = x(cx+b)$
+			\item $ax + bx + ay + by= (x+y)(a+b)$
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{Fatoração - Exercícios}
+		Simplifique:
+		\begin{itemize}
+			\item $x^{2} +14x+49$
+			\item $x^{2} -14x+49$
+			\item $\frac{(x^{2} +14x+49)(x^{2} - 49)}{x^{2} -14x+49}$
+		\end{itemize}
+	\end{block}
+\end{frame}

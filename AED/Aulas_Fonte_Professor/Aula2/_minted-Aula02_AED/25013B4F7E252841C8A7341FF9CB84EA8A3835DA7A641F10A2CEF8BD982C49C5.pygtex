@@ -1,0 +1,14 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{public} \PYG{k+kt}{int} \PYG{n+nf}{sequencialSearch}\PYG{p}{(}\PYG{k+kt}{int} \PYG{n}{arrayA}\PYG{p}{[],} \PYG{k+kt}{int} \PYG{n}{chave}\PYG{p}{)\PYGZob{}}
+
+\PYG{k+kt}{int} \PYG{n}{indice} \PYG{p}{=} \PYG{p}{\PYGZhy{}}\PYG{l+m}{1}\PYG{p}{;}
+ \PYG{k}{for} \PYG{p}{(}\PYG{k+kt}{int} \PYG{n}{i} \PYG{p}{=} \PYG{l+m}{0}\PYG{p}{;} \PYG{n}{i} \PYG{p}{\PYGZlt{}} \PYG{n}{arrayA}\PYG{p}{.}\PYG{n}{length}\PYG{p}{;} \PYG{n}{i}\PYG{p}{++)} \PYG{p}{\PYGZob{}}
+
+ \PYG{k}{if}\PYG{p}{(}\PYG{n}{chave} \PYG{p}{==}  \PYG{n}{arrayA}\PYG{p}{[}\PYG{n}{i}\PYG{p}{])\PYGZob{}}
+ \PYG{n}{indice} \PYG{p}{=} \PYG{n}{i}\PYG{p}{;}
+ \PYG{k}{break}\PYG{p}{;}
+ \PYG{p}{\PYGZcb{}}
+\PYG{p}{\PYGZcb{}}	
+\PYG{k}{return} \PYG{n}{indice}\PYG{p}{;}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}
