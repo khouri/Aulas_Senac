@@ -1,14 +1,16 @@
 FILE = Aula02_AED
 
 all:
-	pdflatex -shell-escape $(FILE).tex
+	pdflatex -shell-escape -interaction=batchmode $(FILE).tex
 	bibtex $(FILE)
 	bibtex $(FILE)
 	pdflatex -shell-escape -interaction=batchmode $(FILE).tex 
 	pdflatex -shell-escape -interaction=batchmode $(FILE).tex 
-	#cp $(FILE).pdf ../../Aulas_PDF_Alunos/Aula01/$(FILE).pdf
-	#mv $(FILE).pdf ./PDF/$(FILE).pdf
-	open -a Preview $(FILE).pdf
+	cp $(FILE).pdf ../../Aulas_PDF_Alunos/Aula2/$(FILE).pdf
+	cp ./secoes/AnaliseAlgoritmos/encontraminimo.cs ../../Aulas_PDF_Alunos/Aula2/encontraminimo.cs
+	cp ./secoes/AnaliseAlgoritmos/sequencialSearch.cs ../../Aulas_PDF_Alunos/Aula2/sequencialSearch.cs
+	mv $(FILE).pdf ./PDF/$(FILE).pdf
+	open -a Preview ./PDF/$(FILE).pdf
 	make clean
 	clear
 draft:

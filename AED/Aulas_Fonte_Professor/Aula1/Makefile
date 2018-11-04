@@ -6,9 +6,9 @@ all:
 	bibtex $(FILE)
 	pdflatex -interaction=batchmode $(FILE).tex 
 	pdflatex -interaction=batchmode $(FILE).tex 
-	#cp $(FILE).pdf ../../Aulas_PDF_Alunos/Aula01/$(FILE).pdf
-	#mv $(FILE).pdf ./PDF/$(FILE).pdf
-	open -a Preview $(FILE).pdf
+	cp $(FILE).pdf ../../Aulas_PDF_Alunos/Aula1/$(FILE).pdf
+	mv $(FILE).pdf ./PDF/$(FILE).pdf
+	open -a Preview ./PDF/$(FILE).pdf
 	make clean
 	clear
 draft:

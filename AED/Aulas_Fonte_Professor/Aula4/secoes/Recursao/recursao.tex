@@ -46,24 +46,30 @@
 	\begin{block}{Indução matemática}
 		\begin{itemize}
 			\item Um exemplo matemático, a soma dos n primeiros números naturais n, pode ser escrita como: S(n) = 1+2+...+n. Sabemos que isso é a soma de uma PA com r = 1, como provar que a soma desses números é dada pela fórmula fechada: S(n) = n*(n+1)/2 ?
-
-\item Podemos usar indução!
-
-\item Passo base: n = 1 S(1) = 1 (trivial)
-
-\item Passo Indutivo: 
-
-\item  
-\begin{eqnarray}
-		S(n) = S(n-1) + n \Leftrightarrow \\
-		((n-1) *(n-1+1) )/2 + n \Leftrightarrow \\
-		n*(n+1) / 2
-\end{eqnarray}
-
-\item A partir da hipótese indutiva com parâmetro n-1 (fórmula fechada) chegamos em n provando por indução que funciona
+			
+			\item Podemos usar indução!
+			
+			\item Passo base: n = 1 S(1) = 1 (trivial)
 		\end{itemize}
 	\end{block}
 \end{frame}
+
+\begin{frame}
+	\begin{block}{Indução matemática}
+		\begin{itemize}
+			\item Passo Indutivo: 
+		\end{itemize}
+		\begin{eqnarray}
+				S(n) = S(n-1) + n \Leftrightarrow \\
+				((n-1) *(n-1+1) )/2 + n \Leftrightarrow \\
+				n*(n+1) / 2
+		\end{eqnarray}
+		\begin{itemize}
+			\item A partir da hipótese indutiva com parâmetro n-1 (fórmula fechada) chegamos em n provando por indução que funciona
+		\end{itemize}
+	\end{block}
+\end{frame}
+
 
 \begin{frame}
 	\begin{block}{Indução matemática - Exercício}
@@ -94,7 +100,7 @@
 		 \begin{figure}[!htb]
 			\centering	  				
 			\includegraphics[height=5cm, width = 9cm]{./pic/nmatrioskas.png}
-			\caption{Bonecas Matrioskas}
+			\caption{Bonecas Matrioskas \cite{KHAN}}
 			\label{fig_matrioskas}
 		\end{figure}
 	\end{block}

@@ -1,0 +1,1 @@
+DELETE FROM artists_backup WHERE artistid = 1;

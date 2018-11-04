@@ -1,14 +1,14 @@
 FILE = Aula06_AED
 
 all:
-	pdflatex -shell-escape $(FILE).tex
+	pdflatex -shell-escape -interaction=batchmode $(FILE).tex
 	bibtex $(FILE)
 	bibtex $(FILE)
 	pdflatex -shell-escape -interaction=batchmode $(FILE).tex 
 	pdflatex -shell-escape -interaction=batchmode $(FILE).tex 
-	#cp $(FILE).pdf ../../Aulas_PDF_Alunos/Aula01/$(FILE).pdf
-	#mv $(FILE).pdf ./PDF/$(FILE).pdf
-	open -a Preview $(FILE).pdf
+	cp $(FILE).pdf ../../Aulas_PDF_Alunos/Aula6/$(FILE).pdf
+	mv $(FILE).pdf ./PDF/$(FILE).pdf
+	open -a Preview ./PDF/$(FILE).pdf
 	make clean
 	clear
 draft:
