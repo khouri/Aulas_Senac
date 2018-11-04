@@ -1,4 +1,4 @@
-\begin{block}{Alter}
+\begin{block}{}
 		Imprimir árvore pré-ordem:
 				\inputminted[linenos,
 									fontsize=\footnotesize,

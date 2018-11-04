@@ -1,0 +1,17 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+	\PYG{c+cm}{/* Given a binary tree, print its nodes in postorder*/}
+	\PYG{k}{void} \PYG{n+nf}{imprimePosOrdem}\PYG{p}{(}\PYG{n}{Node} \PYG{n}{node}\PYG{p}{)}
+	\PYG{p}{\PYGZob{}}
+		\PYG{k}{if} \PYG{p}{(}\PYG{n}{node} \PYG{p}{==} \PYG{k}{null}\PYG{p}{)}
+			\PYG{k}{return}\PYG{p}{;}
+
+		\PYG{c+c1}{// first recur on left subtree}
+		\PYG{n}{imprimePosOrdem}\PYG{p}{(}\PYG{n}{node}\PYG{p}{.}\PYG{n}{left}\PYG{p}{);}
+
+		\PYG{c+c1}{// then recur on right subtree}
+		\PYG{n}{imprimePosOrdem}\PYG{p}{(}\PYG{n}{node}\PYG{p}{.}\PYG{n}{right}\PYG{p}{);}
+
+		\PYG{c+c1}{// now deal with the node}
+		\PYG{n}{System}\PYG{p}{.}\PYG{k}{out}\PYG{p}{.}\PYG{n}{print}\PYG{p}{(}\PYG{n}{node}\PYG{p}{.}\PYG{n}{key} \PYG{p}{+} \PYG{l+s}{\PYGZdq{} \PYGZdq{}}\PYG{p}{);}
+	\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

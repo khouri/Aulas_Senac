@@ -1,14 +1,17 @@
 FILE = Aula09_AED
 
 all:
-	pdflatex -shell-escape  $(FILE).tex
+	pdflatex -shell-escape -interaction=batchmode $(FILE).tex
 	bibtex $(FILE)
 	bibtex $(FILE)
-	pdflatex -shell-escape  -interaction=batchmode $(FILE).tex 
-	pdflatex -shell-escape  -interaction=batchmode $(FILE).tex 
-	#cp $(FILE).pdf ../../Aulas_PDF_Alunos/Aula01/$(FILE).pdf
-	#mv $(FILE).pdf ./PDF/$(FILE).pdf
-	open -a Preview $(FILE).pdf
+	pdflatex -shell-escape -interaction=batchmode $(FILE).tex 
+	pdflatex -shell-escape -interaction=batchmode $(FILE).tex 
+	cp $(FILE).pdf ../../Aulas_PDF_Alunos/Aula9/$(FILE).pdf
+	cp ./secoes/Arvores/imprimeEmOrdem.cs ../../Aulas_PDF_Alunos/Aula9/imprimeEmOrdem.cs
+	cp ./secoes/Arvores/imprimePosOrdem.cs ../../Aulas_PDF_Alunos/Aula9/imprimePosOrdem.cs
+	cp ./secoes/Arvores/imprimePreOrdem.cs ../../Aulas_PDF_Alunos/Aula9/imprimePreOrdem.cs
+	mv $(FILE).pdf ./PDF/$(FILE).pdf
+	open -a Preview ./PDF/$(FILE).pdf
 	make clean
 	clear
 draft:
