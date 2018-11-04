@@ -1,7 +1,7 @@
 FILE = Aula04_TCC_02
 
 all:
-	pdflatex $(FILE).tex
+	pdflatex -interaction=batchmode $(FILE).tex
 	bibtex $(FILE)
 	bibtex $(FILE)
 	pdflatex -interaction=batchmode $(FILE).tex 
