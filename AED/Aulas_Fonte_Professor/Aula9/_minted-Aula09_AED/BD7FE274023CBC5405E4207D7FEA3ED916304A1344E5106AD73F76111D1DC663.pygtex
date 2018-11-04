@@ -1,0 +1,17 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+cm}{/* Given a binary tree, print its nodes in inorder*/}
+	\PYG{k}{void} \PYG{n+nf}{imprimeEmOrdem}\PYG{p}{(}\PYG{n}{Node} \PYG{n}{node}\PYG{p}{)}
+	\PYG{p}{\PYGZob{}}
+		\PYG{k}{if} \PYG{p}{(}\PYG{n}{node} \PYG{p}{==} \PYG{k}{null}\PYG{p}{)}
+			\PYG{k}{return}\PYG{p}{;}
+
+		\PYG{c+cm}{/* first recur on left child */}
+		\PYG{n}{imprimeEmOrdem}\PYG{p}{(}\PYG{n}{node}\PYG{p}{.}\PYG{n}{left}\PYG{p}{);}
+
+		\PYG{c+cm}{/* then print the data of node */}
+		\PYG{n}{System}\PYG{p}{.}\PYG{k}{out}\PYG{p}{.}\PYG{n}{print}\PYG{p}{(}\PYG{n}{node}\PYG{p}{.}\PYG{n}{key} \PYG{p}{+} \PYG{l+s}{\PYGZdq{} \PYGZdq{}}\PYG{p}{);}
+
+		\PYG{c+cm}{/* now recur on right child */}
+		\PYG{n}{imprimeEmOrdem}\PYG{p}{(}\PYG{n}{node}\PYG{p}{.}\PYG{n}{right}\PYG{p}{);}
+	\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

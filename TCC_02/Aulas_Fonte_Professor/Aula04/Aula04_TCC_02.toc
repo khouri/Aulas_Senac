@@ -1,7 +1,0 @@
-\babel@toc {brazil}{}
-\beamer@sectionintoc {1}{Sum\IeC {\'a}rio}{2}{0}{1}
-\beamer@sectionintoc {2}{Cronograma}{3}{0}{2}
-\beamer@sectionintoc {3}{Cita\IeC {\c c}\IeC {\~o}es}{4}{0}{3}
-\beamer@sectionintoc {4}{Refer\IeC {\^e}ncias}{19}{0}{4}
-\beamer@sectionintoc {5}{D\IeC {\'u}vidas}{26}{0}{5}
-\beamer@sectionintoc {6}{Contato}{28}{0}{6}

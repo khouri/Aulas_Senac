@@ -1,0 +1,11 @@
+\begin{block}{Alter}
+		Imprimir árvore pré-ordem:
+				\inputminted[linenos,
+									fontsize=\footnotesize,
+									baselinestretch=1.2,
+									framesep=2mm,
+									bgcolor=bg_gray,
+									frame=lines]
+									{csharp}
+									{./secoes/Arvores/imprimePreOrdem.cs}
+	\end{block}

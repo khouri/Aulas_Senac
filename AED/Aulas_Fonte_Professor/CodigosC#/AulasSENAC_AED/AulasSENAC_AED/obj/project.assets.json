@@ -664,33 +664,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\akhouri\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/adilsonlopeskhouri/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akhouri\\Dropbox\\Aulas_SENAC\\CodigosC#\\AulasSENAC_AED\\AulasSENAC_AED\\AulasSENAC_AED.csproj",
+      "projectUniqueName": "/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/CodigosC#/AulasSENAC_AED/AulasSENAC_AED/AulasSENAC_AED.csproj",
       "projectName": "AulasSENAC_AED",
-      "projectPath": "C:\\Users\\akhouri\\Dropbox\\Aulas_SENAC\\CodigosC#\\AulasSENAC_AED\\AulasSENAC_AED\\AulasSENAC_AED.csproj",
-      "packagesPath": "C:\\Users\\akhouri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akhouri\\Dropbox\\Aulas_SENAC\\CodigosC#\\AulasSENAC_AED\\AulasSENAC_AED\\obj\\",
+      "projectPath": "/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/CodigosC#/AulasSENAC_AED/AulasSENAC_AED/AulasSENAC_AED.csproj",
+      "packagesPath": "/Users/adilsonlopeskhouri/.nuget/packages/",
+      "outputPath": "/Users/adilsonlopeskhouri/Desktop/Aulas/Aulas_Senac/AED/Aulas_Fonte_Professor/CodigosC#/AulasSENAC_AED/AulasSENAC_AED/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\akhouri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "/Users/adilsonlopeskhouri/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -708,8 +703,9 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
           }
         },

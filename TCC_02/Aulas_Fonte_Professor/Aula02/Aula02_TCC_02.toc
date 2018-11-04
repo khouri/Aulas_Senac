@@ -1,8 +1,0 @@
-\babel@toc {brazil}{}
-\beamer@sectionintoc {1}{Sum\IeC {\'a}rio}{2}{0}{1}
-\beamer@sectionintoc {2}{Cronograma}{3}{0}{2}
-\beamer@sectionintoc {3}{Projeto Mercado}{4}{0}{3}
-\beamer@sectionintoc {4}{Projeto Acad\IeC {\^e}mico}{5}{0}{4}
-\beamer@sectionintoc {5}{Discuss\IeC {\~a}o}{6}{0}{5}
-\beamer@sectionintoc {6}{D\IeC {\'u}vidas}{7}{0}{6}
-\beamer@sectionintoc {7}{Contato}{9}{0}{7}
