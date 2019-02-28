@@ -39,8 +39,9 @@
 \usepackage[T1]{fontenc}
 
 %Parece letra times
-%\usepackage{times}
+\usepackage{times}
 \usepackage{graphicx}
+
 
 %Global Background must be put in preamble
 \usebackgroundtemplate%
@@ -64,6 +65,10 @@
 %\usepackage{minted}    
 %\floatsetup[listing]{style=Plaintop}    
 
-\usepackage{minted}
+\usepackage[newfloat]{minted}
 \usemintedstyle{default}
 \definecolor{bg_gray}{rgb}{0.95,0.95,0.95}
+
+
+\newenvironment{code}{\captionsetup{type=listing}}{}
+\SetupFloatingEnvironment{listing}{name=Source Code}
