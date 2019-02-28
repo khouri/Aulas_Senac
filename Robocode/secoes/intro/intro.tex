@@ -3,7 +3,7 @@
 \begin{frame}
 	\begin{block}{O que é Robocode?}
 		\begin{itemize}
-			\item É um jogo de programação cujo objetivo é codificar um robô (em linguagens como: Java, C\#, Scala) que irá competir contra outros robôs
+			\item É um jogo de programação cujo objetivo é codificar um robô (em linguagens como: Java e C\#) que irá competir contra outros robôs
 
 			\item O usuário não interage com o game durante a batalha, apenas durante a codificação do robô
 			
@@ -42,21 +42,6 @@
 	\end{block}
 \end{frame}
 
-%
-%\section{Desenvolvimento}
-%
-%\begin{frame}
-%	\begin{block}{Requisitos}
-%		\begin{itemize}
-%			\item JRE ou JDK superior a versão 6, o robocode vem com um compilador interno rodando sobre o JRE
-%
-%			\item A variável: JAVA\textunderscore HOME tem que apontar para o diretório de instalação do JRE ou JDK
-%			
-%		\end{itemize}
-%	\end{block}
-%\end{frame}
-
-
 
 \section{Instalação do Robocode}
 
@@ -69,7 +54,7 @@
 			
 			\item Realize o download do arquivo jar aqui: \href{https://sourceforge.net/projects/robocode/files/robocode/1.9.3.4/}{\color{blue}{Source Forge}} 
 			
-			\item Na linha de comando, no  mesmo diretório do arquivo jar, digite: \textbf{java -jar robocode-a.b.c.d-setup.jar}
+			\item Na linha de comando, no  mesmo diretório do arquivo jar, digite: \textbf{java -jar robocode-1.9.2.6-setup.jar}
 						
 		\end{itemize}
 	\end{block}
@@ -112,7 +97,7 @@
 		
 		\begin{figure}[!htb]
 			\centering
-			\includegraphics[height=4cm, width = 11cm]{./pic/campoBatalha.png}
+			\includegraphics[height=3cm, width = 11cm]{./pic/campoBatalha.png}
 			\caption{Campo de batalha baseado em sistema cartesiano  \citep{ROBOWIKI}}
 			\label{fig_instalacao03}
 		\end{figure}
@@ -137,7 +122,7 @@
 \begin{frame}
 	\begin{block}{Visão geral do Robô}
 		\begin{itemize}
-			\item \emph{Body}: Carrega a arma com o radar no topo, o corpo é usado para movimentar o robô para frente/trás e para rotacionar o mesmo
+			\item \emph{Body}: Sustenta a arma com o radar no topo, o corpo é usado para movimentar o robô para frente/trás e para rotacionar o mesmo
 			
 			\item \emph{Gun}: Montada no \emph{Body} é responsável por atirar bolas de energia. A arma pode ser rotacionada para: i) direta; ou ii) esquerda
 
@@ -153,9 +138,11 @@
 \begin{frame}
 	\begin{block}{Hands on}
 		\begin{itemize}
-			\item Realize o download do arquivo jar aqui: \href{https://sourceforge.net/projects/robocode/files/robocode/1.9.3.4/}{\color{blue}{Source Forge}}  
+			\item Instale o Robocode em seu computador (consulte os slides de instalação se precisar)
 			
-			\item Execute o script:  Users \textbackslash  HOME\_ DIR \textbackslash  robocode \textbackslash robocode.sh
+			\item Execute o script:  Users \textbackslash HOME\_ DIR\textbackslash robocode \textbackslash robocode.sh
+			
+			\item Clique em: Robot, source editor na janela principal.
 		\end{itemize}
 	\end{block}
 \end{frame}
