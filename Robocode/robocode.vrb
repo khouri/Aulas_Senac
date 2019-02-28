@@ -1,17 +1,18 @@
 \begin{block}{}
 		\begin{code}
 			
-			 \label{code:c-code}
+			 \label{code:onHitWall}
 				\inputminted[linenos,
 									fontsize=\footnotesize,
 									baselinestretch=1.2,
 									framesep=2mm,
-									firstline=1,
-									lastline=13,
+									firstline=42,
+									lastline=49,
 									tabsize=1,
+									bgcolor=mygray,
 									frame=lines]
 									{java}
 									{./secoes/intro/robo.java}
-			\captionof{listing}{Classe que representa o robô, herda da classe mãe \emph{Robot}}
+			\captionof{listing}{Evento do seu robô batendo na borda do campo de batalha}
 			\end{code}
 	\end{block}

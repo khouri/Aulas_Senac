@@ -1,8 +1,6 @@
 package Robos;
 import robocode.*;
 
-// API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
-
 /*Essa classe eh seu roboh*/
 public class MeuPrimeiroRobo extends Robot
 {
@@ -24,18 +22,20 @@ public class MeuPrimeiroRobo extends Robot
 	}
 
 	/**
-	 * onScannedRobot: What to do when you see another robot
+	 * onScannedRobot: What to do when you 
+	 *see another robot
 	 */
 	public void onScannedRobot(ScannedRobotEvent e) {
-		// Replace the next line with any behavior you would like
+		// Replace the next line with any behavior
 		fire(1);
 	}
 
 	/**
-	 * onHitByBullet: What to do when you're hit by a bullet
+	 * onHitByBullet: What to do when you're
+	 * hit by a bullet
 	 */
 	public void onHitByBullet(HitByBulletEvent e) {
-		// Replace the next line with any behavior you would like
+		// Replace the next line with any behavior
 		back(10);
 	}
 	
@@ -43,7 +43,7 @@ public class MeuPrimeiroRobo extends Robot
 	 * onHitWall: What to do when you hit a wall
 	 */
 	public void onHitWall(HitWallEvent e) {
-		// Replace the next line with any behavior you would like
+		// Replace the next line with any behavior
 		back(20);
 	}	
 }

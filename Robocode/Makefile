@@ -1,7 +1,7 @@
 FILE = robocode
 
 all:
-	pdflatex -shell-escape  $(FILE).tex
+	pdflatex -shell-escape -interaction=batchmode $(FILE).tex
 	bibtex $(FILE)
 	bibtex $(FILE)
 	pdflatex -shell-escape -interaction=batchmode  $(FILE).tex 

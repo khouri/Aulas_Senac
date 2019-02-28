@@ -1,0 +1,51 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kn}{package} \PYG{n+nn}{Robos}\PYG{o}{;}
+\PYG{k+kn}{import} \PYG{n+nn}{robocode.*}\PYG{o}{;}
+
+\PYG{c+cm}{/*Essa classe eh seu roboh*/}
+\PYG{k+kd}{public} \PYG{k+kd}{class} \PYG{n+nc}{MeuPrimeiroRobo} \PYG{k+kd}{extends} \PYG{n}{Robot}
+\PYG{o}{\PYGZob{}}
+
+	\PYG{k+kd}{public} \PYG{k+kt}{void} \PYG{n+nf}{run}\PYG{o}{()} \PYG{o}{\PYGZob{}}
+		
+		\PYG{c+c1}{// setColors(Color.red,Color.blue,Color.green); }
+		\PYG{c+c1}{// body,gun,radar}
+
+		\PYG{c+c1}{// Robot main loop}
+		\PYG{k}{while}\PYG{o}{(}\PYG{k+kc}{true}\PYG{o}{)} \PYG{o}{\PYGZob{}}
+			\PYG{c+c1}{// Replace the next 4 lines with any }
+			\PYG{c+c1}{//behavior you would like}
+			\PYG{n}{ahead}\PYG{o}{(}\PYG{l+m+mi}{100}\PYG{o}{);}
+			\PYG{n}{turnGunRight}\PYG{o}{(}\PYG{l+m+mi}{360}\PYG{o}{);}
+			\PYG{n}{back}\PYG{o}{(}\PYG{l+m+mi}{100}\PYG{o}{);}
+			\PYG{n}{turnGunRight}\PYG{o}{(}\PYG{l+m+mi}{360}\PYG{o}{);}
+		\PYG{o}{\PYGZcb{}}
+	\PYG{o}{\PYGZcb{}}
+
+	\PYG{c+cm}{/**}
+\PYG{c+cm}{	 * onScannedRobot: What to do when you }
+\PYG{c+cm}{	 *see another robot}
+\PYG{c+cm}{	 */}
+	\PYG{k+kd}{public} \PYG{k+kt}{void} \PYG{n+nf}{onScannedRobot}\PYG{o}{(}\PYG{n}{ScannedRobotEvent} \PYG{n}{e}\PYG{o}{)} \PYG{o}{\PYGZob{}}
+		\PYG{c+c1}{// Replace the next line with any behavior}
+		\PYG{n}{fire}\PYG{o}{(}\PYG{l+m+mi}{1}\PYG{o}{);}
+	\PYG{o}{\PYGZcb{}}
+
+	\PYG{c+cm}{/**}
+\PYG{c+cm}{	 * onHitByBullet: What to do when you\PYGZsq{}re}
+\PYG{c+cm}{	 * hit by a bullet}
+\PYG{c+cm}{	 */}
+	\PYG{k+kd}{public} \PYG{k+kt}{void} \PYG{n+nf}{onHitByBullet}\PYG{o}{(}\PYG{n}{HitByBulletEvent} \PYG{n}{e}\PYG{o}{)} \PYG{o}{\PYGZob{}}
+		\PYG{c+c1}{// Replace the next line with any behavior}
+		\PYG{n}{back}\PYG{o}{(}\PYG{l+m+mi}{10}\PYG{o}{);}
+	\PYG{o}{\PYGZcb{}}
+	
+	\PYG{c+cm}{/**}
+\PYG{c+cm}{	 * onHitWall: What to do when you hit a wall}
+\PYG{c+cm}{	 */}
+	\PYG{k+kd}{public} \PYG{k+kt}{void} \PYG{n+nf}{onHitWall}\PYG{o}{(}\PYG{n}{HitWallEvent} \PYG{n}{e}\PYG{o}{)} \PYG{o}{\PYGZob{}}
+		\PYG{c+c1}{// Replace the next line with any behavior}
+		\PYG{n}{back}\PYG{o}{(}\PYG{l+m+mi}{20}\PYG{o}{);}
+	\PYG{o}{\PYGZcb{}}	
+\PYG{o}{\PYGZcb{}}
+\end{Verbatim}

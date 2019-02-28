@@ -42,19 +42,19 @@
 	\end{block}
 \end{frame}
 
-
-\section{Desenvolvimento}
-
-\begin{frame}
-	\begin{block}{Requisitos}
-		\begin{itemize}
-			\item JRE ou JDK superior a versão 6, o robocode vem com um compilador interno rodando sobre o JRE
-
-			\item A variável: JAVA\textunderscore HOME tem que apontar para o diretório de instalação do JRE ou JDK
-			
-		\end{itemize}
-	\end{block}
-\end{frame}
+%
+%\section{Desenvolvimento}
+%
+%\begin{frame}
+%	\begin{block}{Requisitos}
+%		\begin{itemize}
+%			\item JRE ou JDK superior a versão 6, o robocode vem com um compilador interno rodando sobre o JRE
+%
+%			\item A variável: JAVA\textunderscore HOME tem que apontar para o diretório de instalação do JRE ou JDK
+%			
+%		\end{itemize}
+%	\end{block}
+%\end{frame}
 
 
 
@@ -63,6 +63,10 @@
 \begin{frame}
 	\begin{block}{Instalação}
 		\begin{itemize}
+			\item JRE ou JDK superior a versão 6, o robocode vem com um compilador interno rodando sobre o JRE
+
+			\item A variável: JAVA\textunderscore HOME tem que apontar para o diretório de instalação do JRE ou JDK
+			
 			\item Realize o download do arquivo jar aqui: \href{https://sourceforge.net/projects/robocode/files/robocode/1.9.3.4/}{\color{blue}{Source Forge}} 
 			
 			\item Na linha de comando, no  mesmo diretório do arquivo jar, digite: \textbf{java -jar robocode-a.b.c.d-setup.jar}
@@ -88,7 +92,7 @@
 	\begin{block}{Instalação}
 		 \begin{figure}[!htb]
 			\centering	  				
-			\includegraphics[height=2cm, width = 7cm]{./pic/instalacao02.png}
+			\includegraphics[height=3cm, width = 9cm]{./pic/instalacao02.png}
 			\caption{Passo 2 da instalação}
 			\label{fig_instalacao02}
 		\end{figure}
@@ -108,7 +112,7 @@
 		
 		\begin{figure}[!htb]
 			\centering
-			\includegraphics[height=3cm, width = 7cm]{./pic/campoBatalha.png}
+			\includegraphics[height=4cm, width = 11cm]{./pic/campoBatalha.png}
 			\caption{Campo de batalha baseado em sistema cartesiano  \citep{ROBOWIKI}}
 			\label{fig_instalacao03}
 		\end{figure}
@@ -122,7 +126,7 @@
 	\begin{block}{Visão geral do Robô}
 		\begin{figure}[!htb]
 			\centering	  				
-			\includegraphics[height=3cm, width = 7cm]{./pic/Anatomy.jpg}
+			\includegraphics[height=5cm, width = 11cm]{./pic/Anatomy.jpg}
 			\caption{Anatomia do robô  \citep{ROBOWIKI}}
 			\label{fig_instalacao04}
 		\end{figure}
@@ -151,26 +155,99 @@
 		\begin{itemize}
 			\item Realize o download do arquivo jar aqui: \href{https://sourceforge.net/projects/robocode/files/robocode/1.9.3.4/}{\color{blue}{Source Forge}}  
 			
-			\item Na linha de comando, no  mesmo diretório do arquivo jar, digite: \textbf{java -jar nomeDoJar.jar}
+			\item Execute o script:  Users \textbackslash  HOME\_ DIR \textbackslash  robocode \textbackslash robocode.sh
 		\end{itemize}
 	\end{block}
 \end{frame}
 
+
+\begin{frame}
+	\begin{block}{}
+		\begin{figure}[!htb]
+			\centering	  				
+			\includegraphics[height=7cm, width = 11cm]{./pic/telaInicial.png}
+			\caption{Tela Inicial}
+			\label{fig_instalacao04}
+		\end{figure}
+	\end{block}
+\end{frame}
+
+
+\begin{frame}
+	\begin{block}{}
+		\begin{figure}[!htb]
+			\centering	  				
+			\includegraphics[height=7cm, width = 11cm]{./pic/codigo.png}
+			\caption{Tela de codificação}
+			\label{fig_instalacao04}
+		\end{figure}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\begin{block}{}
+		\begin{figure}[!htb]
+			\centering	  				
+			\includegraphics[height=3cm, width = 7cm]{./pic/salvar.png}
+			\caption{Tela para salvar}
+			\label{fig_instalacao04}
+		\end{figure}
+	\end{block}
+\end{frame}
+
+
+\begin{frame}
+	\begin{block}{}
+		\begin{figure}[!htb]
+			\centering	  				
+			\includegraphics[height=3cm, width = 7cm]{./pic/compilar.png}
+			\caption{Tela para compilar}
+			\label{fig_instalacao04}
+		\end{figure}
+	\end{block}
+\end{frame}
+
+
+\begin{frame}
+	\begin{block}{}
+		\begin{figure}[!htb]
+			\centering	  				
+			\includegraphics[height=7cm, width = 11cm]{./pic/escolhaRobos.png}
+			\caption{Tela para escolher robôs}
+			\label{fig_instalacao04}
+		\end{figure}
+	\end{block}
+\end{frame}
+
+
+\begin{frame}
+	\begin{block}{}
+		\begin{figure}[!htb]
+			\centering	  				
+			\includegraphics[height=7cm, width = 11cm]{./pic/batalha.png}
+			\caption{Campo de batalha}
+			\label{fig_instalacao04}
+		\end{figure}
+	\end{block}
+\end{frame}
+
+
 %// API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
-\section{Código do robô}
+\section*{Código do robô}
 
 \begin{frame}[fragile]
 	\begin{block}{}
 		\begin{code}
 			
-			 \label{code:c-code}
+			 \label{code:ClasseRobo}
 				\inputminted[linenos,
 									fontsize=\footnotesize,
 									baselinestretch=1.2,
 									framesep=2mm,
 									firstline=1,
-									lastline=13,
+									lastline=12,
 									tabsize=1,
+									bgcolor=mygray,									
 									frame=lines]
 									{java}
 									{./secoes/intro/robo.java}
@@ -178,6 +255,93 @@
 			\end{code}
 	\end{block}
 \end{frame}
+
+\begin{frame}[fragile]
+	\begin{block}{}
+		\begin{code}
+			
+			 \label{code:MainWhile}
+				\inputminted[linenos,
+									fontsize=\footnotesize,
+									baselinestretch=1.2,
+									framesep=2mm,
+									firstline=13,
+									lastline=22,
+									tabsize=1,
+									bgcolor=mygray,									
+									frame=lines]
+									{java}
+									{./secoes/intro/robo.java}
+			\captionof{listing}{Laço principal que determina o comportamento do robô}
+			\end{code}
+	\end{block}
+\end{frame}
+
+
+\begin{frame}[fragile]
+	\begin{block}{}
+		\begin{code}
+			
+			 \label{code:Radar}
+				\inputminted[linenos,
+									fontsize=\footnotesize,
+									baselinestretch=1.2,
+									framesep=2mm,
+									firstline=24,
+									lastline=31,
+									tabsize=1,
+									bgcolor=mygray,									
+									frame=lines]
+									{java}
+									{./secoes/intro/robo.java}
+			\captionof{listing}{Evento do radar que identificou um robô}
+			\end{code}
+	\end{block}
+\end{frame}
+
+\begin{frame}[fragile]
+	\begin{block}{}
+		\begin{code}
+			
+			 \label{code:onFire}
+				\inputminted[linenos,
+									fontsize=\footnotesize,
+									baselinestretch=1.2,
+									framesep=2mm,
+									firstline=33,
+									lastline=40,
+									bgcolor=mygray,									
+									tabsize=1,
+									frame=lines]
+									{java}
+									{./secoes/intro/robo.java}
+			\captionof{listing}{Evento do seu robô sendo alvejado}
+			\end{code}
+	\end{block}
+\end{frame}
+
+
+\begin{frame}[fragile]
+	\begin{block}{}
+		\begin{code}
+			
+			 \label{code:onHitWall}
+				\inputminted[linenos,
+									fontsize=\footnotesize,
+									baselinestretch=1.2,
+									framesep=2mm,
+									firstline=42,
+									lastline=49,
+									tabsize=1,
+									bgcolor=mygray,
+									frame=lines]
+									{java}
+									{./secoes/intro/robo.java}
+			\captionof{listing}{Evento do seu robô batendo na borda do campo de batalha}
+			\end{code}
+	\end{block}
+\end{frame}
+
 
 \section{Exercício: Guerra de robôs!}
 
