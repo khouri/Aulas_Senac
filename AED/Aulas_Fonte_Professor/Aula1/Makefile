@@ -14,6 +14,5 @@ all:
 draft:
 	pdflatex -interaction=batchmode $(FILE).tex
 	make clean
-
 clean:
 	rm -rf *.aux *.bbl *.toc *.out *.log *.nls *.nlo *.lof *.lot *.blg *.ilg *.gz *.tcp *.brf *.snm *.nav *.bak *.sav
