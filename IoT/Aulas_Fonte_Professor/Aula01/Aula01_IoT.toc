@@ -1,0 +1,4 @@
+\babel@toc {brazil}{}
+\beamer@sectionintoc {2}{Apresenta\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
+\beamer@sectionintoc {4}{O que \IeC {\'e} IoT?}{10}{0}{2}
+\beamer@sectionintoc {5}{Caracter\IeC {\'\i }sticas de plataformas de IoT}{18}{0}{3}
