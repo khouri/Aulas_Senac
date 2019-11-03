@@ -1,1 +1,2 @@
 \babel@toc {brazil}{}
+\beamer@sectionintoc {3}{M\IeC {\'e}todo Cient\IeC {\'\i }fico}{4}{0}{1}
