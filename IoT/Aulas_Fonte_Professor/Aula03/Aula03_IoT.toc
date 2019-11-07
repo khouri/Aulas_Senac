@@ -1,1 +1,2 @@
 \babel@toc {brazil}{}
+\beamer@sectionintoc {3}{O que \IeC {\'e} um Exploratory Data Analysis (EDA)?}{4}{0}{1}
